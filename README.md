@@ -1,5 +1,5 @@
 # Biometric, Gender and Age Identification using Mamba
-[Paper Link (Accepted, awaiting publication)](https://drive.google.com/file/d/1sSXjNGj6e_9YHTe9vbPa2pJsS_I6ytws/view?usp=sharing)
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10892788)
 
 ## Overview
 This project presents a novel approach to biometric identification that integrates the efficient long-range dependency modeling of Mamba with the U-Net architecture. Our model demonstrates superior accuracy and computational efficiency compared to previous works utilizing transformers and convolutional neural networks (CNNs).
@@ -59,6 +59,21 @@ After downloading the 11k hands images and , Run the testing process:
 ```bash
 python test.py
 ```
-## Contact
-For any questions or issues, please open an issue on GitHub or contact the project maintainer at Amirsoltani2002@gmail.com.
+
+## Acknowledgment
+
+We would like to thank the authors and contributors of [SUM](https://github.com/Arhosseini77/SUM) for their open-sourced code, which significantly aided this project.
+
+## Citation
+```bibtex
+@inproceedings{rezasoltani2024multi,
+  title={A Multi-Task Framework Using Mamba for Identity, Age, and Gender Classification from Hand Images},
+  author={Rezasoltani, Amirabbas and Hosseini, Alireza and Toosi, Ramin and Akhaee, Mohammad Ali},
+  booktitle={2024 15th International Conference on Information and Knowledge Technology (IKT)},
+  pages={41--46},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 
