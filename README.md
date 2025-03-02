@@ -1,5 +1,5 @@
 # Biometric, Gender and Age Identification using Mamba
-[Paper Link](https://ieeexplore.ieee.org/abstract/document/10892788)
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10892788) - IKT 2024
 
 ## Overview
 This project presents a novel approach to biometric identification that integrates the efficient long-range dependency modeling of Mamba with the U-Net architecture. Our model demonstrates superior accuracy and computational efficiency compared to previous works utilizing transformers and convolutional neural networks (CNNs).
